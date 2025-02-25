@@ -1,0 +1,105 @@
+[
+    {
+        "code": "SCB",
+        "name": "STANDARD CHARTERED BANK"
+    },
+    {
+        "code": "BBG",
+        "name": "BARCLAYS BANK GHANA"
+    },
+    {
+        "code": "GCB",
+        "name": "GCB BANK LIMITED"
+    },
+    {
+        "code": "NIB",
+        "name": "NATIONAL INVESTMENT BANK"
+    },
+    {
+        "code": "ADB",
+        "name": "AGRICULTURAL DEVELOPMENT BANK"
+    },
+    {
+        "code": "UMB",
+        "name": "UNIVERSAL MERCHANT BANK"
+    },
+    {
+        "code": "REP",
+        "name": "REPUBLIC BANK LIMITED"
+    },
+    {
+        "code": "ZEN",
+        "name": "ZENITH BANK GHANA LTD"
+    },
+    {
+        "code": "ECO",
+        "name": "ECOBANK GHANA LTD"
+    },
+    {
+        "code": "CAL",
+        "name": "CAL BANK LIMITED"
+    },
+    {
+        "code": "FAB",
+        "name": "FIRST ATLANTIC BANK"
+    },
+    {
+        "code": "PRU",
+        "name": "PRUDENTIAL BANK LTD"
+    },
+    {
+        "code": "STA",
+        "name": "STANBIC BANK"
+    },
+    {
+        "code": "BOA",
+        "name": "BANK OF AFRICA"
+    },
+    {
+        "code": "GTB",
+        "name": "GUARANTY TRUST BANK"
+    },
+    {
+        "code": "FBL",
+        "name": "FIDELITY BANK LIMITED"
+    },
+    {
+        "code": "SSB",
+        "name": "SAHEL - SAHARA BANK (BSIC)"
+    },
+    {
+        "code": "UBA",
+        "name": "UNITED BANK OF AFRICA"
+    },
+    {
+        "code": "BOG",
+        "name": "BANK OF GHANA"
+    },
+    {
+        "code": "ACC",
+        "name": "ACCESS BANK LTD"
+    },
+    {
+        "code": "CBG",
+        "name": "CONSOLIDATED BANK GHANA"
+    },
+    {
+        "code": "FNB",
+        "name": "FIRST NATIONAL BANK"
+    },
+    {
+        "code": "MTN",
+        "name": "MTN Mobile Money",
+        "desc": "Mobile Money"
+    },
+    {
+        "code": "VOD",
+        "name": "Vodafone Cash",
+        "desc": "Mobile Money"
+    },
+    {
+        "code": "ATM",
+        "name": "AirtelTigo Money",
+        "desc": "Mobile Money"
+    }
+]

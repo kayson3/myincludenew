@@ -1,0 +1,47 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Flutter (Chrome)",
+            "program": "lib/main.dart",
+            "deviceId": "chrome",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "fuspay testingtwo",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "args": [
+                "-d",
+                "chrome",
+                "--web-hostname",
+                "testingtwo.useinclude.com",
+                "--web-port",
+                "5500"
+            ],
+            "flutterMode": "debug",
+        },
+        {
+            "name": "fuspay web test",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "args": [
+                "-d",
+                "chrome",
+                "--web-hostname",
+                "siderandomapp.localhost",
+                "--web-port",
+                "5500"
+            ],
+            "flutterMode": "debug",
+        }
+    ]
+}
